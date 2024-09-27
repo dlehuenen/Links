@@ -19,6 +19,20 @@
 
 # Experiments
 
-* :thumbsup: - Thumbs up
-* :family: - Family
-* :star: - Star
+* 👍 - Thumbs up
+* 👪 - Family
+* ⭐ - Star
+
+# Keyboard shortcuts
+
+Shortcuts I frequently use: 
+- Ctrl-X (cut)
+- Ctrl-F (search/find)
+- Alt-f4 (close window)
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-A (select all)
+
+Shortcuts I would like to start using: 
+- Win-L (lock computer)
+- Win-D (show desktop)
