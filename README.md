@@ -11,11 +11,15 @@
 * `(` - Open parenthesis
 * `)` - Closing parenthesis
 
-# Links
+# External Links
 
 * [Binary to Decimal Converter](https://www.rapidtables.com/convert/number/binary-to-decimal.html)
 * [Ratatype Typing Test](https://www.ratatype.com/typing-test/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+
+# My Links
+
+* [CLI commands](docs/cli.md)
 
 # Experiments
 
